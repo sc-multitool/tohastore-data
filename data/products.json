@@ -26,32 +26,6 @@
     }
   },
   {
-    "id": "prod_4",
-    "nameEn": "Diamond Stud Earrings",
-    "nameAr": "أقراط ماسة",
-    "descriptionEn": "Sparkling diamond stud earrings",
-    "descriptionAr": "أقراط ماسة متلألئة",
-    "price": 299,
-    "discountPrice": null,
-    "categoryId": "cat_4",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": 5,
-    "sold": 12,
-    "isAvailable": true,
-    "featured": true,
-    "createdAt": "2026-04-27T18:56:08.793Z",
-    "updatedAt": "2026-04-27T18:56:08.793Z",
-    "category": {
-      "id": "cat_4",
-      "nameEn": "Earrings",
-      "nameAr": "أقراط",
-      "slug": "earrings",
-      "sortOrder": 3
-    }
-  },
-  {
     "id": "prod_5",
     "nameEn": "Luxury Gold Watch",
     "nameAr": "ساعة ذهبية فاخرة",
