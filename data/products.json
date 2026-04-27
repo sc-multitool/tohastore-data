@@ -52,32 +52,6 @@
     }
   },
   {
-    "id": "prod_8",
-    "nameEn": "Drop Earrings",
-    "nameAr": "أقراط متدلية",
-    "descriptionEn": "Elegant drop earrings with crystals",
-    "descriptionAr": "أقراط متدلية أنيقة مع كريستالات",
-    "price": 129,
-    "discountPrice": 99,
-    "categoryId": "cat_4",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": 8,
-    "sold": 21,
-    "isAvailable": true,
-    "featured": true,
-    "createdAt": "2026-04-27T18:56:08.793Z",
-    "updatedAt": "2026-04-27T18:56:08.793Z",
-    "category": {
-      "id": "cat_4",
-      "nameEn": "Earrings",
-      "nameAr": "أقراط",
-      "slug": "earrings",
-      "sortOrder": 3
-    }
-  },
-  {
     "id": "prod_1777317549017_he7gzf",
     "nameEn": "wow catrine logo",
     "nameAr": "wow catrine logo",
