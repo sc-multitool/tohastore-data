@@ -1,11 +1,12 @@
 {
-  "whatsappNumber": "",
+  "whatsappNumber": "+201123109856",
   "facebookUrl": "",
-  "instagramUrl": "",
+  "instagramUrl": "https://www.instagram.com/toha.accessories",
   "locationTextEn": "",
   "locationTextAr": "",
   "locationUrl": "",
   "storeNameEn": "Toha Store",
   "storeNameAr": "Toha Store",
-  "currency": "EGP"
+  "currency": "EGP",
+  "locationText": ""
 }
