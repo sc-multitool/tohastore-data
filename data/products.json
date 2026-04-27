@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "prod_1777325139630_fmzl9g",
+    "nameEn": "test",
+    "nameAr": "test",
+    "descriptionEn": "test",
+    "descriptionAr": "test",
+    "price": 101,
+    "discountPrice": null,
+    "categoryId": "cat_3",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/0f96ab23-c9a3-4493-9919-8e7ca77ef73d.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "createdAt": "2026-04-27T21:25:39.630Z",
+    "updatedAt": "2026-04-27T21:25:39.630Z",
+    "category": {
+      "id": "cat_3",
+      "nameEn": "Caps",
+      "nameAr": "كابات",
+      "slug": "caps",
+      "sortOrder": 2
+    }
+  }
+]
