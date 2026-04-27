@@ -26,32 +26,6 @@
     }
   },
   {
-    "id": "prod_6",
-    "nameEn": "Rose Gold Ring Set",
-    "nameAr": "طقم خواتم وردي",
-    "descriptionEn": "Set of 3 rose gold rings",
-    "descriptionAr": "طقم 3 خواتم ذهبية وردية",
-    "price": 179,
-    "discountPrice": null,
-    "categoryId": "cat_1",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": 12,
-    "sold": 34,
-    "isAvailable": true,
-    "featured": false,
-    "createdAt": "2026-04-27T18:56:08.793Z",
-    "updatedAt": "2026-04-27T18:56:08.793Z",
-    "category": {
-      "id": "cat_1",
-      "nameEn": "Rings",
-      "nameAr": "خواتم",
-      "slug": "rings",
-      "sortOrder": 0
-    }
-  },
-  {
     "id": "prod_7",
     "nameEn": "Chain Bracelet",
     "nameAr": "سوار سلسلة",
