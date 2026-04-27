@@ -232,5 +232,31 @@
       "slug": "rings",
       "sortOrder": 0
     }
+  },
+  {
+    "id": "prod_1777317549017_he7gzf",
+    "nameEn": "wow catrine logo",
+    "nameAr": "wow catrine logo",
+    "descriptionEn": "this catrine logo",
+    "descriptionAr": "this catrine logo",
+    "price": 110,
+    "discountPrice": null,
+    "categoryId": "cat_4",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/f6b51b90-1aad-4c08-a42d-91f0cafe84ae.png\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "createdAt": "2026-04-27T19:19:09.017Z",
+    "updatedAt": "2026-04-27T19:19:09.017Z",
+    "category": {
+      "id": "cat_4",
+      "nameEn": "Earrings",
+      "nameAr": "أقراط",
+      "slug": "earrings",
+      "sortOrder": 3
+    }
   }
 ]
