@@ -232,31 +232,5 @@
       "slug": "earrings",
       "sortOrder": 3
     }
-  },
-  {
-    "id": "prod_1777317610619_y1h29d",
-    "nameEn": "hhh",
-    "nameAr": "hhh",
-    "descriptionEn": "hhh",
-    "descriptionAr": "hhh",
-    "price": 122,
-    "discountPrice": null,
-    "categoryId": "cat_3",
-    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4ce40166-0278-4b6f-8cf3-893663ee3a62.png\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/b8ab0f66-c9c3-46d4-86ff-c328459545ad.png\"]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": -1,
-    "sold": 0,
-    "isAvailable": true,
-    "featured": false,
-    "createdAt": "2026-04-27T19:20:10.619Z",
-    "updatedAt": "2026-04-27T19:20:10.619Z",
-    "category": {
-      "id": "cat_3",
-      "nameEn": "Bracelets",
-      "nameAr": "أساور",
-      "slug": "bracelets",
-      "sortOrder": 2
-    }
   }
 ]
