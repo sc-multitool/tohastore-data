@@ -208,32 +208,6 @@
     }
   },
   {
-    "id": "prod_1777316923506_aamsqx",
-    "nameEn": "yeees",
-    "nameAr": "yeees",
-    "descriptionEn": "test",
-    "descriptionAr": "test",
-    "price": 100,
-    "discountPrice": null,
-    "categoryId": "cat_1",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": -1,
-    "sold": 0,
-    "isAvailable": true,
-    "featured": false,
-    "createdAt": "2026-04-27T19:08:43.506Z",
-    "updatedAt": "2026-04-27T19:08:43.506Z",
-    "category": {
-      "id": "cat_1",
-      "nameEn": "Rings",
-      "nameAr": "خواتم",
-      "slug": "rings",
-      "sortOrder": 0
-    }
-  },
-  {
     "id": "prod_1777317549017_he7gzf",
     "nameEn": "wow catrine logo",
     "nameAr": "wow catrine logo",
