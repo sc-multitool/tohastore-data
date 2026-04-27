@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat_1",
+    "nameEn": "Rings",
+    "nameAr": "خواتم",
+    "slug": "rings",
+    "sortOrder": 0
+  },
+  {
+    "id": "cat_2",
+    "nameEn": "Necklaces",
+    "nameAr": "قلادات",
+    "slug": "necklaces",
+    "sortOrder": 1
+  },
+  {
+    "id": "cat_3",
+    "nameEn": "Bracelets",
+    "nameAr": "أساور",
+    "slug": "bracelets",
+    "sortOrder": 2
+  },
+  {
+    "id": "cat_4",
+    "nameEn": "Earrings",
+    "nameAr": "أقراط",
+    "slug": "earrings",
+    "sortOrder": 3
+  },
+  {
+    "id": "cat_5",
+    "nameEn": "Watches",
+    "nameAr": "ساعات",
+    "slug": "watches",
+    "sortOrder": 4
+  }
+]
