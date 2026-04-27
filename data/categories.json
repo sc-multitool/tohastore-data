@@ -8,30 +8,30 @@
   },
   {
     "id": "cat_2",
-    "nameEn": "Necklaces",
-    "nameAr": "قلادات",
-    "slug": "necklaces",
+    "nameEn": "Bracelets",
+    "nameAr": "أساور",
+    "slug": "bracelets",
     "sortOrder": 1
   },
   {
     "id": "cat_3",
-    "nameEn": "Bracelets",
-    "nameAr": "أساور",
-    "slug": "bracelets",
+    "nameEn": "Caps",
+    "nameAr": "كابات",
+    "slug": "caps",
     "sortOrder": 2
   },
   {
     "id": "cat_4",
-    "nameEn": "Earrings",
-    "nameAr": "أقراط",
-    "slug": "earrings",
+    "nameEn": "Watches",
+    "nameAr": "ساعات",
+    "slug": "watches",
     "sortOrder": 3
   },
   {
     "id": "cat_5",
-    "nameEn": "Watches",
-    "nameAr": "ساعات",
-    "slug": "watches",
+    "nameEn": "Wallets",
+    "nameAr": "محافظ",
+    "slug": "wallets",
     "sortOrder": 4
   }
 ]
