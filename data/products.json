@@ -1,31 +1,5 @@
 [
   {
-    "id": "prod_2",
-    "nameEn": "Silver Heart Necklace",
-    "nameAr": "قلادة قلب فضية",
-    "descriptionEn": "Beautiful silver heart necklace",
-    "descriptionAr": "قلادة قلب فضية جميلة",
-    "price": 199,
-    "discountPrice": 159,
-    "categoryId": "cat_2",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": 10,
-    "sold": 45,
-    "isAvailable": true,
-    "featured": true,
-    "createdAt": "2026-04-27T18:56:08.793Z",
-    "updatedAt": "2026-04-27T18:56:08.793Z",
-    "category": {
-      "id": "cat_2",
-      "nameEn": "Necklaces",
-      "nameAr": "قلادات",
-      "slug": "necklaces",
-      "sortOrder": 1
-    }
-  },
-  {
     "id": "prod_3",
     "nameEn": "Pearl Bracelet",
     "nameAr": "سوار لؤلؤ",
