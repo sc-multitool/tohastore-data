@@ -1,31 +1,5 @@
 [
   {
-    "id": "prod_1",
-    "nameEn": "Golden Crystal Ring",
-    "nameAr": "خاتم كريستال ذهبي",
-    "descriptionEn": "Elegant golden crystal ring for special occasions",
-    "descriptionAr": "خاتم كريستال ذهبي أنيق للمناسبات الخاصة",
-    "price": 149,
-    "discountPrice": null,
-    "categoryId": "cat_1",
-    "images": "[]",
-    "colors": "[]",
-    "sizes": "[]",
-    "stock": 15,
-    "sold": 23,
-    "isAvailable": true,
-    "featured": true,
-    "createdAt": "2026-04-27T18:56:08.793Z",
-    "updatedAt": "2026-04-27T18:56:08.793Z",
-    "category": {
-      "id": "cat_1",
-      "nameEn": "Rings",
-      "nameAr": "خواتم",
-      "slug": "rings",
-      "sortOrder": 0
-    }
-  },
-  {
     "id": "prod_2",
     "nameEn": "Silver Heart Necklace",
     "nameAr": "قلادة قلب فضية",
