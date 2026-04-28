@@ -123,6 +123,14 @@
       "latitude": 39.0438,
       "longitude": -77.4874,
       "timestamp": 1777381159612
+    },
+    "196.129.175.83": {
+      "ipAddress": "196.129.175.83",
+      "country": "Egypt",
+      "city": "Cairo",
+      "latitude": 30.0507,
+      "longitude": 31.2489,
+      "timestamp": 1777382844341
     }
   }
 }
