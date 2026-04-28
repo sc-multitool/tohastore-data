@@ -26,5 +26,33 @@
       "slug": "watches",
       "sortOrder": 3
     }
+  },
+  {
+    "id": "prod_1777420529459_8pheoe",
+    "nameEn": "TISSOT.PRX",
+    "nameAr": "TISSOT.PRX",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 650,
+    "discountPrice": 500,
+    "categoryId": "cat_4",
+    "images": "[]",
+    "colors": "[{\"nameEn\":\"\",\"nameAr\":\"\",\"hex\":\"#000000\",\"images\":[]}]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-04-28T23:55:29.459Z",
+    "updatedAt": "2026-04-28T23:55:29.459Z",
+    "category": {
+      "id": "cat_4",
+      "nameEn": "Watches",
+      "nameAr": "ساعات",
+      "slug": "watches",
+      "sortOrder": 3
+    }
   }
 ]
