@@ -13,16 +13,18 @@
     "sizes": "[]",
     "stock": -1,
     "sold": 0,
-    "isAvailable": true,
+    "isAvailable": false,
     "featured": false,
     "createdAt": "2026-04-27T21:25:39.630Z",
-    "updatedAt": "2026-04-28T12:30:48.510Z",
+    "updatedAt": "2026-04-28T12:39:35.166Z",
     "category": {
       "id": "cat_3",
       "nameEn": "Caps",
       "nameAr": "كابات",
       "slug": "caps",
       "sortOrder": 2
-    }
+    },
+    "hidden": false,
+    "soldOut": true
   }
 ]
