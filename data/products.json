@@ -26,5 +26,33 @@
       "slug": "caps",
       "sortOrder": 2
     }
+  },
+  {
+    "id": "prod_1777389653764_984nrr",
+    "nameEn": "CASIO QUARTZ",
+    "nameAr": "CASIO QUARTZ",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 350,
+    "discountPrice": null,
+    "categoryId": "cat_4",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4d77d384-c117-4d34-88f2-3cc7f94b2ece.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4bef9f10-049a-4110-81ed-ba273a3365db.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4e7d139e-2418-43bc-a7c9-5a6dbd74dcba.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/c552d591-5f34-49ab-9f02-e53b9b1d1958.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/c2c116fa-6034-43ab-8159-63b905144006.jpg\"]",
+    "colors": "[{\"nameEn\":\"\",\"nameAr\":\"\",\"hex\":\"#000000\",\"images\":[]}]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-04-28T15:20:53.764Z",
+    "updatedAt": "2026-04-28T15:20:53.764Z",
+    "category": {
+      "id": "cat_4",
+      "nameEn": "Watches",
+      "nameAr": "ساعات",
+      "slug": "watches",
+      "sortOrder": 3
+    }
   }
 ]
