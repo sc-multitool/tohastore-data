@@ -31,6 +31,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1777341675313
+    },
+    "197.47.98.246": {
+      "ipAddress": "197.47.98.246",
+      "country": "Egypt",
+      "city": "Giza",
+      "latitude": 30.0046,
+      "longitude": 31.2044,
+      "timestamp": 1777341981077
     }
   }
 }
