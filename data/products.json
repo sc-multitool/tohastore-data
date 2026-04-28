@@ -36,7 +36,7 @@
     "price": 650,
     "discountPrice": 500,
     "categoryId": "cat_4",
-    "images": "[]",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/74258291-7716-4c03-96c6-544391ed0d9b.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/f447d897-71b9-4d12-b6d7-0ad1664c5aeb.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/09af3145-b4bf-46bd-918c-2a00fda17803.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/5a8f9ff0-5308-443e-9861-a61ed0c4309b.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/0455c997-b687-48ae-93f7-eee305504de7.jpg\"]",
     "colors": "[{\"nameEn\":\"\",\"nameAr\":\"\",\"hex\":\"#000000\",\"images\":[]}]",
     "sizes": "[]",
     "stock": -1,
@@ -46,7 +46,7 @@
     "hidden": false,
     "soldOut": false,
     "createdAt": "2026-04-28T23:55:29.459Z",
-    "updatedAt": "2026-04-28T23:55:29.459Z",
+    "updatedAt": "2026-04-28T23:57:03.009Z",
     "category": {
       "id": "cat_4",
       "nameEn": "Watches",
