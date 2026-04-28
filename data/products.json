@@ -13,10 +13,10 @@
     "sizes": "[]",
     "stock": -1,
     "sold": 0,
-    "isAvailable": true,
+    "isAvailable": false,
     "featured": false,
     "createdAt": "2026-04-27T21:25:39.630Z",
-    "updatedAt": "2026-04-27T21:25:39.630Z",
+    "updatedAt": "2026-04-28T12:14:15.704Z",
     "category": {
       "id": "cat_3",
       "nameEn": "Caps",
