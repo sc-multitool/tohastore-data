@@ -54,5 +54,33 @@
       "slug": "watches",
       "sortOrder": 3
     }
+  },
+  {
+    "id": "prod_1777420813782_iycga9",
+    "nameEn": "Take.bosten",
+    "nameAr": "Take.bosten",
+    "descriptionEn": "كاب كاتين ",
+    "descriptionAr": "كاب كاتين ",
+    "price": 450,
+    "discountPrice": 350,
+    "categoryId": "cat_3",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/36e5caf5-0d36-4fc5-85a1-beb00558f126.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/eb3b0def-a0df-41db-8adc-2038586e4aae.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-04-29T00:00:13.782Z",
+    "updatedAt": "2026-04-29T00:00:13.782Z",
+    "category": {
+      "id": "cat_3",
+      "nameEn": "Caps",
+      "nameAr": "كابات",
+      "slug": "caps",
+      "sortOrder": 2
+    }
   }
 ]
