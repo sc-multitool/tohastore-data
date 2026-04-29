@@ -195,6 +195,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1777456274213
+    },
+    "62.193.86.163": {
+      "ipAddress": "62.193.86.163",
+      "country": "Egypt",
+      "city": "Zagazig",
+      "latitude": 30.5868,
+      "longitude": 31.5026,
+      "timestamp": 1777457928442
     }
   }
 }
