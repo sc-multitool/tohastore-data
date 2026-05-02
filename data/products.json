@@ -82,5 +82,33 @@
       "slug": "caps",
       "sortOrder": 2
     }
+  },
+  {
+    "id": "prod_1777757874875_0z5p5u",
+    "nameEn": "كابBoss",
+    "nameAr": "كابBoss",
+    "descriptionEn": "Original cap",
+    "descriptionAr": "Original cap",
+    "price": 650,
+    "discountPrice": 400,
+    "categoryId": "cat_3",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/55c1e5d6-d3ea-431a-8dd3-43a897fe688c.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/a4158c47-8a23-4e6a-a010-615214a01ddb.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/d95930cd-e610-4fd0-9c19-0a1f0452a419.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/3541e5f7-242c-4e8f-848d-04c6948cd191.jpg\"]",
+    "colors": "[{\"nameEn\":\"\",\"nameAr\":\"بيج\",\"hex\":\"#b8b8b8\",\"images\":[]}]",
+    "sizes": "[]",
+    "stock": 1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-05-02T21:37:54.875Z",
+    "updatedAt": "2026-05-02T21:37:54.875Z",
+    "category": {
+      "id": "cat_3",
+      "nameEn": "Caps",
+      "nameAr": "كابات",
+      "slug": "caps",
+      "sortOrder": 2
+    }
   }
 ]
