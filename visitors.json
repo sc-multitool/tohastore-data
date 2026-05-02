@@ -235,6 +235,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1777710311286
+    },
+    "2c0f:fc89:809e:d6f6:74fa:b4b2:f601:ea0c": {
+      "ipAddress": "2c0f:fc89:809e:d6f6:74fa:b4b2:f601:ea0c",
+      "country": "Egypt",
+      "city": "Cairo",
+      "latitude": 30.0507,
+      "longitude": 31.2489,
+      "timestamp": 1777713018907
     }
   }
 }
