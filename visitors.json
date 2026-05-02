@@ -243,6 +243,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1777713018907
+    },
+    "57.141.6.39": {
+      "ipAddress": "57.141.6.39",
+      "country": "United States",
+      "city": "Atlanta",
+      "latitude": 33.7485,
+      "longitude": -84.3871,
+      "timestamp": 1777761417567
     }
   }
 }
