@@ -291,6 +291,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1778878614868
+    },
+    "41.42.17.71": {
+      "ipAddress": "41.42.17.71",
+      "country": "Egypt",
+      "city": "Fostat",
+      "latitude": 30.0093,
+      "longitude": 31.2423,
+      "timestamp": 1778890291966
     }
   }
 }
