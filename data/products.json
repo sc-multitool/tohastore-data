@@ -110,5 +110,33 @@
       "slug": "caps",
       "sortOrder": 2
     }
+  },
+  {
+    "id": "prod_1778890508031_7ksk7w",
+    "nameEn": "محفظة CK",
+    "nameAr": "محفظة CK",
+    "descriptionEn": "محفظة للفلوس والكروت ",
+    "descriptionAr": "محفظة للفلوس والكروت ",
+    "price": 400,
+    "discountPrice": null,
+    "categoryId": "cat_5",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/612d1003-8bbb-4ec1-8ce5-4a5f9e803dbc.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/5b782dc3-1f43-4e68-bdf8-42c38087c081.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/1d2dd2d5-7692-472d-85a6-8c7c1a48926c.jpg\"]",
+    "colors": "[{\"nameEn\":\"\",\"nameAr\":\"\",\"hex\":\"#000000\",\"images\":[]}]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-05-16T00:15:08.031Z",
+    "updatedAt": "2026-05-16T00:15:08.031Z",
+    "category": {
+      "id": "cat_5",
+      "nameEn": "Wallets",
+      "nameAr": "محافظ",
+      "slug": "wallets",
+      "sortOrder": 4
+    }
   }
 ]
