@@ -138,5 +138,33 @@
       "slug": "wallets",
       "sortOrder": 4
     }
+  },
+  {
+    "id": "prod_1784133855187_5b4bpi",
+    "nameEn": "Black Van cleef",
+    "nameAr": "Black Van cleef",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 300,
+    "discountPrice": 200,
+    "categoryId": "cat_2",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/96dc5352-f01d-4f93-86a4-180114b867c7.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/2241ee63-859e-41b2-b627-2c5e14cd7ddc.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/afb370f0-88e4-48ff-959a-6f8b2b66ba8e.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-07-15T16:44:15.187Z",
+    "updatedAt": "2026-07-15T16:44:15.187Z",
+    "category": {
+      "id": "cat_2",
+      "nameEn": "Bracelets",
+      "nameAr": "أساور",
+      "slug": "bracelets",
+      "sortOrder": 1
+    }
   }
 ]
