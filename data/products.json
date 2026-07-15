@@ -173,7 +173,7 @@
     "nameAr": "Hermes bracelet ",
     "descriptionEn": "",
     "descriptionAr": "",
-    "price": 1500,
+    "price": 150,
     "discountPrice": null,
     "categoryId": "cat_2",
     "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4042c780-044a-48aa-810a-4983f7163d53.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/4cc1cabb-13b5-4374-8ece-bf3ebb61b100.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/591569e2-c9bf-4e75-9dea-99a801247647.jpg\"]",
@@ -186,7 +186,7 @@
     "hidden": false,
     "soldOut": false,
     "createdAt": "2026-07-15T16:57:47.653Z",
-    "updatedAt": "2026-07-15T16:57:47.653Z",
+    "updatedAt": "2026-07-15T17:21:08.947Z",
     "category": {
       "id": "cat_2",
       "nameEn": "Bracelets",
