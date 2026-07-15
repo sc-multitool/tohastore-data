@@ -323,6 +323,14 @@
       "latitude": 41.0765,
       "longitude": -96.1438,
       "timestamp": 1784133286284
+    },
+    "162.19.254.232": {
+      "ipAddress": "162.19.254.232",
+      "country": "Germany",
+      "city": "Limburg an der Lahn",
+      "latitude": 50.383,
+      "longitude": 8.0611,
+      "timestamp": 1784147753323
     }
   }
 }
