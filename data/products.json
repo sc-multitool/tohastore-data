@@ -166,5 +166,33 @@
       "slug": "bracelets",
       "sortOrder": 1
     }
+  },
+  {
+    "id": "prod_1784134326515_xj6rvy",
+    "nameEn": "Hermes bracelet",
+    "nameAr": "Hermes bracelet",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 150,
+    "discountPrice": null,
+    "categoryId": "cat_2",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/987129b2-6d0a-4a43-9343-c3ef9d25098c.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/2bd608e6-561b-42cb-baa2-3b68c83f445e.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-07-15T16:52:06.515Z",
+    "updatedAt": "2026-07-15T16:52:06.515Z",
+    "category": {
+      "id": "cat_2",
+      "nameEn": "Bracelets",
+      "nameAr": "أساور",
+      "slug": "bracelets",
+      "sortOrder": 1
+    }
   }
 ]
