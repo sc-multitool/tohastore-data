@@ -33,5 +33,12 @@
     "nameAr": "محافظ",
     "slug": "wallets",
     "sortOrder": 4
+  },
+  {
+    "id": "cat_1784721641373_ylnk4f",
+    "nameEn": "سلاسل",
+    "nameAr": "سلاسل",
+    "slug": "Chains",
+    "sortOrder": 5
   }
 ]
