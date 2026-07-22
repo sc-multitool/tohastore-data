@@ -331,6 +331,14 @@
       "latitude": 50.383,
       "longitude": 8.0611,
       "timestamp": 1784147753323
+    },
+    "102.59.241.83": {
+      "ipAddress": "102.59.241.83",
+      "country": "Egypt",
+      "city": "Madīnat an Naşr",
+      "latitude": 30.0733,
+      "longitude": 31.304,
+      "timestamp": 1784721266422
     }
   }
 }
