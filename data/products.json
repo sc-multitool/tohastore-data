@@ -250,5 +250,33 @@
       "slug": "Chains",
       "sortOrder": 5
     }
+  },
+  {
+    "id": "prod_1784722135973_1nr7z2",
+    "nameEn": "Lv Gold Chain",
+    "nameAr": "Lv Gold Chain",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 200,
+    "discountPrice": null,
+    "categoryId": "cat_1784721641373_ylnk4f",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/ae19972f-7db4-4d65-b2b2-9a95a5911d1c.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/b7d1e495-9ace-43ef-a841-b763a03975df.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/2e0ffa0f-8be3-4894-bf8f-4e6c2589dfed.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": -1,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-07-22T12:08:55.973Z",
+    "updatedAt": "2026-07-22T12:08:55.973Z",
+    "category": {
+      "id": "cat_1784721641373_ylnk4f",
+      "nameEn": "سلاسل",
+      "nameAr": "سلاسل",
+      "slug": "Chains",
+      "sortOrder": 5
+    }
   }
 ]
