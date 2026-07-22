@@ -5,9 +5,9 @@
     "customerPhone": "01286825192",
     "items": "[{\"productId\":\"prod_1784134667653_cq41z9\",\"productNameEn\":\"Hermes bracelet \",\"productNameAr\":\"Hermes bracelet \",\"price\":150,\"quantity\":1,\"color\":\"\",\"size\":null}]",
     "total": 150,
-    "status": "shipped",
+    "status": "cancelled",
     "createdAt": "2026-07-15T19:17:24.178Z",
-    "updatedAt": "2026-07-22T11:54:57.759Z"
+    "updatedAt": "2026-07-22T11:55:07.602Z"
   },
   {
     "id": "ord_1777389750014_xdwuxn",
