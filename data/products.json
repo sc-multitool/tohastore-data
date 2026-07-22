@@ -222,5 +222,33 @@
       "slug": "bracelets",
       "sortOrder": 1
     }
+  },
+  {
+    "id": "prod_1784721847910_gtmylx",
+    "nameEn": "Dior Black Chain",
+    "nameAr": "Dior Black Chain",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 180,
+    "discountPrice": null,
+    "categoryId": "cat_1784721641373_ylnk4f",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/fa432faa-f9d0-46bd-8a59-982ce224de3e.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/f03dbfd7-2118-49a9-b250-66c4ad8334b6.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/7930c952-0dc0-4f95-8825-cfac898f1ad8.jpg\"]",
+    "colors": "[{\"nameEn\":\"Black\",\"nameAr\":\"اسود\",\"hex\":\"#000000\",\"images\":[]}]",
+    "sizes": "[]",
+    "stock": 2,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": false,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-07-22T12:04:07.910Z",
+    "updatedAt": "2026-07-22T12:04:07.910Z",
+    "category": {
+      "id": "cat_1784721641373_ylnk4f",
+      "nameEn": "سلاسل",
+      "nameAr": "سلاسل",
+      "slug": "Chains",
+      "sortOrder": 5
+    }
   }
 ]
