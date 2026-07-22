@@ -194,5 +194,33 @@
       "slug": "bracelets",
       "sortOrder": 1
     }
+  },
+  {
+    "id": "prod_1784721488184_vfxupk",
+    "nameEn": "برسلت اية الكرسي ",
+    "nameAr": "برسلت اية الكرسي ",
+    "descriptionEn": "",
+    "descriptionAr": "",
+    "price": 150,
+    "discountPrice": null,
+    "categoryId": "cat_2",
+    "images": "[\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/ae5196e7-77fa-4ff6-a4ba-4f330cfcd42a.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/b4b66bde-ac1b-4c0a-bf63-aa5a74ce0bb3.jpg\",\"https://raw.githubusercontent.com/sc-multitool/tohastore-data/main/images/256b6b88-703c-43fd-914d-9aa2611929f7.jpg\"]",
+    "colors": "[]",
+    "sizes": "[]",
+    "stock": 10,
+    "sold": 0,
+    "isAvailable": true,
+    "featured": true,
+    "hidden": false,
+    "soldOut": false,
+    "createdAt": "2026-07-22T11:58:08.184Z",
+    "updatedAt": "2026-07-22T11:58:08.184Z",
+    "category": {
+      "id": "cat_2",
+      "nameEn": "Bracelets",
+      "nameAr": "أساور",
+      "slug": "bracelets",
+      "sortOrder": 1
+    }
   }
 ]
