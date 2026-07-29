@@ -347,6 +347,14 @@
       "latitude": 41.0765,
       "longitude": -96.1438,
       "timestamp": 1785073328347
+    },
+    "105.81.165.108": {
+      "ipAddress": "105.81.165.108",
+      "country": "Egypt",
+      "city": "Al Qāhirah al Jadīdah",
+      "latitude": 30.016,
+      "longitude": 31.4116,
+      "timestamp": 1785342605305
     }
   }
 }
