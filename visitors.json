@@ -363,6 +363,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1785810874701
+    },
+    "102.59.15.112": {
+      "ipAddress": "102.59.15.112",
+      "country": "Egypt",
+      "city": "Helwan",
+      "latitude": 29.8415,
+      "longitude": 31.2953,
+      "timestamp": 1786184138906
     }
   }
 }
