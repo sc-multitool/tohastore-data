@@ -379,6 +379,14 @@
       "latitude": 30.0046,
       "longitude": 31.2044,
       "timestamp": 1786571437711
+    },
+    "173.252.82.61": {
+      "ipAddress": "173.252.82.61",
+      "country": "United States",
+      "city": "Springfield",
+      "latitude": 41.0765,
+      "longitude": -96.1438,
+      "timestamp": 1786900478840
     }
   }
 }
