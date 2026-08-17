@@ -387,6 +387,14 @@
       "latitude": 41.0765,
       "longitude": -96.1438,
       "timestamp": 1786900478840
+    },
+    "141.95.29.163": {
+      "ipAddress": "141.95.29.163",
+      "country": "Germany",
+      "city": "Frankfurt am Main",
+      "latitude": 50.1169,
+      "longitude": 8.6837,
+      "timestamp": 1786929158339
     }
   }
 }
