@@ -40,5 +40,12 @@
     "nameAr": "سلاسل",
     "slug": "Chains",
     "sortOrder": 5
+  },
+  {
+    "id": "cat_1790198799743_3q5gsf",
+    "nameEn": "حزام رجالي",
+    "nameAr": "حزام رجالي",
+    "slug": "belt",
+    "sortOrder": 6
   }
 ]
