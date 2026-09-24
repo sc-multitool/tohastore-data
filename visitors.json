@@ -459,6 +459,14 @@
       "latitude": 41.0765,
       "longitude": -96.1438,
       "timestamp": 1790198708238
+    },
+    "187.23.192.174": {
+      "ipAddress": "187.23.192.174",
+      "country": "Brazil",
+      "city": "Campo Grande",
+      "latitude": -20.4428,
+      "longitude": -54.6464,
+      "timestamp": 1790239832110
     }
   }
 }
