@@ -507,6 +507,14 @@
       "latitude": 30.0507,
       "longitude": 31.2489,
       "timestamp": 1790292465830
+    },
+    "129.224.207.88": {
+      "ipAddress": "129.224.207.88",
+      "country": "Syria",
+      "city": "Damascus",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "timestamp": 1790299248678
     }
   }
 }
