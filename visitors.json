@@ -515,6 +515,14 @@
       "latitude": 33.5138,
       "longitude": 36.2765,
       "timestamp": 1790299248678
+    },
+    "151.82.146.253": {
+      "ipAddress": "151.82.146.253",
+      "country": "Italy",
+      "city": "San Martino",
+      "latitude": 44.3908,
+      "longitude": 8.51535,
+      "timestamp": 1790309391139
     }
   }
 }
