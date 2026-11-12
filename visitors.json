@@ -619,6 +619,14 @@
       "latitude": 37.3388,
       "longitude": -121.8916,
       "timestamp": 1792842394078
+    },
+    "57.141.2.79": {
+      "ipAddress": "57.141.2.79",
+      "country": "United States",
+      "city": "San Jose",
+      "latitude": 37.3388,
+      "longitude": -121.8916,
+      "timestamp": 1794523167074
     }
   }
 }
